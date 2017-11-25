@@ -77,6 +77,5 @@ E:\HackaTown\HackaTown\HackaTown\bin\Microsoft.Owin.Security.OAuth.xml
 E:\HackaTown\HackaTown\HackaTown\bin\Microsoft.Owin.Security.Google.xml
 E:\HackaTown\HackaTown\HackaTown\bin\Microsoft.Owin.Security.Twitter.xml
 E:\HackaTown\HackaTown\HackaTown\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-E:\HackaTown\HackaTown\HackaTown\obj\Debug\HackaTown.csprojResolveAssemblyReference.cache
 E:\HackaTown\HackaTown\HackaTown\obj\Debug\HackaTown.dll
 E:\HackaTown\HackaTown\HackaTown\obj\Debug\HackaTown.pdb
